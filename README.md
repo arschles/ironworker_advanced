@@ -1,5 +1,5 @@
 This repository has semi-advanced code samples for use in IronWorker, and a driver
-script (courtesy @carimura) that can queue up many tasks concurrently.
+script (courtesy [@carimura](https://github.com/carimura)) that can queue up many tasks concurrently.
 
 # Instructions for Use
 
