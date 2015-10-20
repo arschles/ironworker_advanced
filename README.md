@@ -1,6 +1,5 @@
-# ironworker_advanced
-
-Semi-advanced code samples for IronWorker.
+This repository has semi-advanced code samples for use in IronWorker, and a driver
+script (courtesy @carimura) that can queue up many tasks concurrently.
 
 # Instructions for Use
 
